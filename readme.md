@@ -3,10 +3,6 @@
 ### [2. 文档说明](./content/2_Introduction.md)
 ### [3. 产品简介](./content/3_Description.md)
 ### [4. 产品架构](./content/4_Structure.md)
-- 信息结构图
-- 产品结构图
-- 订单流程图
-- 总体流程图
 ### [5. 详细功能说明](./content/5_Function.md)
 - 功能列表
 ### [6. 非功能需求](./content/6_NotFunction.md)
